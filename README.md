@@ -48,7 +48,7 @@ Nourish Net provides a digital solution to:
 
 1. Clone the repository:
 
-   git clone https://github.com/Yashasri-145/Nourish-net.git
+   git clone https://github.com/chilpurivyshnavi/Nourish-net
 
 2. Open the project folder.
 
